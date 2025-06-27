@@ -50,9 +50,9 @@ HTTP status codes are often overlooked in cybersecurity—but they can reveal:
 
 ---
 
-## 📎 License
+## Reference 
 
-MIT License. Feel free to fork, share, and contribute.
+**https://en.wikipedia.org/wiki/List_of_HTTP_status_codes**
 
 ---
 
